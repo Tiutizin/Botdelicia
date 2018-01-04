@@ -1,0 +1,2 @@
+# Botdelicia
+Discord webhook
